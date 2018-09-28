@@ -1,0 +1,18 @@
+body {
+  background-color: White;
+}
+
+#source-link {
+  font-size: 20px;
+}
+
+h1 {
+text-align: left;
+color: rgb(46, 117, 182);
+}
+
+th {
+font-family: Helvetica;
+font-size: 20px;
+background-color: rgb(230, 230, 230);
+}
